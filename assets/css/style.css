@@ -1,7 +1,11 @@
 /* for the pen */
 @font-face {
     font-family: 'Henshin';
-    src: url('../../Moyko.ttf');
+    src: url('../../SEVEMFBR.TTF');
+  }
+@font-face {
+    font-family: 'music';
+    src: url('../../SEVEMFBR.TTF');
   }
 
 html,
@@ -62,7 +66,8 @@ body {
 }
 
 h1{
-    font-family: Henshin;
+    font-family:'music';
+    letter-spacing: 5px;
 }
 
 .container{
