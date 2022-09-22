@@ -128,3 +128,12 @@ h1{
     font-size: 25px;
     margin: 0 10px;
 }
+
+@media only screen and (max-width: 600px) {
+    .top-marker{
+        display: none;
+    }
+    .wave{
+        display: none;
+    }
+  }
