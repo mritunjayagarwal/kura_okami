@@ -179,7 +179,7 @@ h1{
     right: -200px;
     top: 50%;
     margin-top: -150px;
-    z-index: 100;
+    z-index: -1;
   }
   
   
