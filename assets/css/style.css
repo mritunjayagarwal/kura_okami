@@ -120,12 +120,12 @@ h1{
 #background-video {
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    /* object-fit: cover;
     position: fixed;
     left: 0;
     right: 0;
     top: 0;
-    bottom: 0;
+    bottom: 0; */
     z-index: 2;
 }
 
@@ -135,7 +135,7 @@ h1{
     top: 0;
     right: 0;
     width: 100vh;
-    z-index: -1 !important;
+    z-index: 3 !important;
     transform-origin: right top;
     transform: rotate(90deg) translateX(100%);
 }
