@@ -168,6 +168,7 @@ h1{
     font-weight: 800;
     color: #84D0FC;
     text-shadow: 0 0 3px #000, 2px 2px 2px #000;
+    text-decoration: none;
 }
 
 .navbar-brand {
