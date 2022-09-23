@@ -187,9 +187,10 @@ h1{
     }
 
     .navbar-nav li a{
-      margin-left: -50px
+      margin: 0 30px 10px -30px
   }
-    .navbar-nav li .btn{
-      margin-left: -50px
+
+  .navbar-collapse{
+    background: #000
   }
   }
