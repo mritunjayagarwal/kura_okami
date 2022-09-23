@@ -143,7 +143,7 @@ h1{
     top: 0;
     right: 0;
     width: 100vh;
-    z-index: 1 !important;
+    z-index: 1;
     transform-origin: right top;
     transform: rotate(90deg) translateX(100%);
 }
