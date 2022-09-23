@@ -187,6 +187,9 @@ h1{
     }
 
     .navbar-nav li a{
-      font-size: 25px;
+      margin-left: -50px
+  }
+    .navbar-nav li .btn{
+      margin-left: -50px
   }
   }
