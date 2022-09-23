@@ -15,6 +15,7 @@ body {
     font-family: 'Henshin';
     max-width: 100%;
     overflow-x: hidden;
+    overflow-y: hidden;
     background: url('../img/bg.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -22,10 +23,6 @@ body {
 
 .black{
   background: rgba(0,0,0, 0.5);
-}
-
-.para{
-    margin: 20px 0;
 }
 
 /* waves */
@@ -183,6 +180,11 @@ h1{
 }
 
 @media only screen and (max-width: 600px) {
+
+    body{
+        overflow-y: unset;
+    }
+
     .top-marker{
         display: none;
     }
