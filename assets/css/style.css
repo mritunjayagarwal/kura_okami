@@ -24,6 +24,11 @@ body {
   background: rgba(0,0,0, 0.5);
 }
 
+.para{
+    font-family: 'Henshin';
+    margin: 20px 0;
+}
+
 /* waves */
 .ocean {
     height: 80px;
