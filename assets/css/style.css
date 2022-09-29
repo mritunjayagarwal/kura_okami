@@ -195,6 +195,10 @@ h1{
         display: none;
     }
 
+    .black{
+        height: 100%;
+    }
+
     .navbar-nav li a{
       margin: 0 30px 10px -30px
   }
@@ -202,4 +206,13 @@ h1{
   .navbar-collapse{
     background: #000
   }
+
+  .navbar-brand{
+    font-size: 25px
+  }
+
+  #background-video {
+    height: 100%;
+}
+
   }
